@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyler-Tutt
-- Check out https://www.Tutt.llc 
+- Check out https://tutt.llc/
 - 👀 I’m interested in creating my own ToDo App
 - 🌱 I’m currently using CS50 & TheOdinProject to teach myself programming
 - 📫 How to reach me: Tyler@Tutt.llc
