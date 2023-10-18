@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyler-Tutt
-- Check out https://tutt.llc/
+- Check out https://tutt.llc/ or https://www.salesforce.com/trailblazer/ttuttle
 - 👀 interested in creating productivity apps & enjoyable content
 - 📫 How to reach me: Tyler@Tutt.llc
 
