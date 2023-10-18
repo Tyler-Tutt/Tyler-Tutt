@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyler-Tutt
 - Check out https://tutt.llc/
-- 👀 I’m interested in creating my own ToDo App
+- 👀 interested in creating productivity apps & enjoyable content
 - 📫 How to reach me: Tyler@Tutt.llc
 
 <!---
