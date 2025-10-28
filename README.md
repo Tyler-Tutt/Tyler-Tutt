@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @Tyler-Tutt
-* Solutions Architect, Operations & Automation Nerd 🤓
+* Solutions & Technical Architect, Operations & Automation Nerd 🤓
 * Business Sites:
   * [Tutt.llc](https://tutt.llc/)
   * [LinkedIn](https://www.linkedin.com/in/tyler-tuttle/)
