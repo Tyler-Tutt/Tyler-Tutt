@@ -3,7 +3,7 @@
 * Business Sites:
   * [Tutt.llc](https://tutt.llc/)
   * [LinkedIn](https://www.linkedin.com/in/tyler-tuttle/)
-  * [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/ttuttle]
+  * [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/ttuttle)
 * Personal/Hobby Site:
   * [TylerTuttle.com](https://www.tylertuttle.com)
 * 📫 How to reach me: Info@Tutt.llc
