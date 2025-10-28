@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tyler-Tutt
+- Solutions Architect, Operations & Automation Nerd, and a proud New Englander
 - Check out https://tutt.llc/ or https://www.salesforce.com/trailblazer/ttuttle
-- 👀 interested in creating productivity apps & enjoyable content
-- 📫 How to reach me: Tyler@Tutt.llc
+- 📫 How to reach me: Info@Tutt.llc
 
 <!---
 Tyler-Tutt/Tyler-Tutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
