@@ -1,4 +1,3 @@
-* 👋 Hi, I’m @Tyler-Tutt
 * Solutions & Technical Architect, Operations & Automation Nerd 🤓
 * Business Sites:
   * [Tutt.llc](https://www.tutt.llc/?utm_source=github&utm_medium=profile&utm_campaign=githubReadme) 
